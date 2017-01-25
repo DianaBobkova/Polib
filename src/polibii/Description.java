@@ -27,7 +27,7 @@ public class Description {
                 x = Integer.parseInt(String.valueOf(s.charAt(i)));
                 y = Integer.parseInt(String.valueOf(s.charAt(i+1)));
 
-                rez += Encryption.key[x][y];
+                rez += Main.key[x][y];
             }
         }
 

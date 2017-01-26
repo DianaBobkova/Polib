@@ -56,3 +56,4 @@ $RECYCLE.BIN/
 *.msp
 *.lnk
 *.iml
+out/
